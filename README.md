@@ -3,9 +3,9 @@
 A front-page newspaper drawn entirely in code: **38 dated stories across
 7 regions**, one day in world news, rendered as a 1024x1024 PNG.
 
-https://make.fun/badge/news-image-20261120.svg
-https://make.fun/badge/news-image-20261120/rezimx-btc/news-image-20261120-v3/rank.svg
-https://make.fun/badge/news-image-20261120/rezimx-btc/news-image-20261120-v3/reward.svg
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/rezimx-btc/news-image-20261120-v3/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/rezimx-btc/news-image-20261120-v3/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 ## What is on the page
 
